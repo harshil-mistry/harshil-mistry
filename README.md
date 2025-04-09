@@ -64,12 +64,19 @@ I make attempts to create cool stuff that solves real problems
 
 ## 📈 GitHub Stats
 
+
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshil-mistry&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshil-mistry&show_icons=true&theme=dark&hide_border=true&count_private=true" width="75%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil-mistry&layout=compact&theme=dark" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=harshil-mistry&theme=dark" width="75%" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil-mistry&theme=dark&hide_border=true&layout=compact" width="75%" />
 </p>
 
 > 📈 I know, not the flashiest stats yet — but hey, am working on it one commit at a time! 💪  
@@ -99,9 +106,9 @@ I make attempts to create cool stuff that solves real problems
 
 - 💌 Email: harshilmistry31@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/harshilmistry295/
-- 🌐 Portfolio: Coming soon to your nearby Browsers
-- 🧠 Ask me about web dev, hackathons, or the best coffee for coding marathons  
-- 🤝 Let’s connect — **especially if you hate frontend as much as I do**. We can hate on react together.
+- 🌐 Portfolio: Coming soon to your nearby browsers
+- 🧠 Ask me about web dev, hackathons, or the ideal playlist to power through bug fixing.
+- 🤝 Let’s connect — **especially if you hate frontend as much as I do**. We can hate on React together 😈
  
 
 ---
@@ -112,6 +119,6 @@ I make attempts to create cool stuff that solves real problems
 
 
 ---
-
-_Thanks for scrolling all the way down. You deserve a semicolon ;_
-
+<center><i>
+Thanks for scrolling all the way down. You deserve a semicolon ;
+</i></center>
