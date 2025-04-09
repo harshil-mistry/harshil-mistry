@@ -57,8 +57,8 @@ I make attempts to create cool stuff that solves real problems
 ## 🔥 What I'm Working On
 
 - 🎧 **MusicLink - Playlist Converter** — Jump between Spotify, YouTube or YT Music effortlessly  
-- 🤖 **AIML Club Website** — With being the Web Team lead comes some responsibilities  
-- 🌐 **Portfolio** — Animations? Yes. Even more animations? Also yes.
+- 🤖 **AIML Club Site** — Being the Web Team Lead comes with its share of responsibilities—and I’m all in.
+- 🌐 **Portfolio Website** — Animations? Yes. Even more animations? Also yes.
 
 ---
 
