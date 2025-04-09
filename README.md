@@ -23,6 +23,7 @@ I make attempts to create cool stuff that solves real problems
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
@@ -33,6 +34,7 @@ I make attempts to create cool stuff that solves real problems
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
@@ -54,35 +56,31 @@ I make attempts to create cool stuff that solves real problems
 
 ## 🔥 What I'm Working On
 
-- 🏋️‍♂️ **Gym Management System** — From paper to portal  
-- 🎧 **Playlist Converter App** — Jump between Spotify & YouTube Music effortlessly  
-- 🧠 **Road Accident Prevention System** — Real-time alerts using smart tech  
-- 🧑‍💼 **Freelancing Platform** — Connecting clients and coders  
-- 🌐 **Portfolio & AIML Club Site** — Animations? Yes. Eye candy? Also yes.
+- 🎧 **MusicLink - Playlist Converter** — Jump between Spotify, YouTube or YT Music effortlessly  
+- 🤖 **AIML Club Website** — With being the Web Team lead comes some responsibilities  
+- 🌐 **Portfolio** — Animations? Yes. Even more animations? Also yes.
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshil-mistry&theme=radica" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshil-mistry&theme=dark" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil-mistry&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil-mistry&layout=compact&theme=dark" width="48%" />
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshil-mistry&theme=r)
-
+> 📈 I know, not the flashiest stats yet — but hey, am working on it one commit at a time! 💪  
 
 ---
 
 ## 🧠 Currently Learning
 
-- Deep diving into **JavaScript** before taming **React** 🧪  
 - Conquering **Django** with backend force  
-- Playing with **MongoDB**  
-- Building **ML-powered apps**, one model at a time
+- Playing with **WebSockets**  
+- Exploring **ML-powered apps**, one model at a time
 
 ---
 
@@ -92,7 +90,6 @@ I make attempts to create cool stuff that solves real problems
 - 🎮 Playing games and ignoring my pending assignments
 - 🎸 Strumming my guitar & learning to play phonks on guitar 💀
 - 🎵 Vibing to playlists (that I might've built with my own app 👀)  
-- 🏃‍♂️ Walking around like I’m solving bugs in my head  
 - 💡 Brainstorming project ideas I may or may not finish 😅  
 
 
@@ -100,17 +97,21 @@ I make attempts to create cool stuff that solves real problems
 
 ## 📫 Let's Connect
 
-- 💌 Email: [your-email@example.com]  
-- 🌐 Portfolio: Coming soon (just like your next favorite app 😉)  
+- 💌 Email: harshilmistry31@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/harshilmistry295/
+- 🌐 Portfolio: Coming soon to your nearby Browsers
 - 🧠 Ask me about web dev, hackathons, or the best coffee for coding marathons  
 - 🤝 Let’s connect — **especially if you hate frontend as much as I do**. We can hate on react together.
  
 
 ---
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding bruh" />
+</p>
+
 
 ---
 
-_Thanks for scrolling all the way down. You deserve a semicolon;_
+_Thanks for scrolling all the way down. You deserve a semicolon ;_
 
