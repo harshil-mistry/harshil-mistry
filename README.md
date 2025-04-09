@@ -69,7 +69,7 @@ I make attempts to create cool stuff that solves real problems
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshil-mistry&show_icons=true&theme=dark&hide_border=true&count_private=true" width="75%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshil-mistry&show_icons=true&theme=dark&count_private=true" width="75%" />
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ I make attempts to create cool stuff that solves real problems
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil-mistry&theme=dark&hide_border=true&layout=compact" width="75%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil-mistry&theme=dark&layout=compact" width="75%" />
 </p>
 
 > 📈 I know, not the flashiest stats yet — but hey, am working on it one commit at a time! 💪  
