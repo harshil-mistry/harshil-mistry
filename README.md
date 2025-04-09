@@ -4,6 +4,8 @@ Welcome to my little part of the internet 🌍— where backend is home, fronten
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshil-mistry&style=flat-square&color=brightgreen)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Professional+Night+Owl;Hopefully+a+future+Guitarist)](https://github.com/DenverCoder1/readme-typing-svg)
+
 ---
 
 ## 🚀 About Me
