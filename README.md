@@ -119,6 +119,4 @@ I make attempts to create cool stuff that solves real problems
 
 
 ---
-<center><i>
-Thanks for scrolling all the way down. You deserve a semicolon ;
-</i></center>
+_Thanks for scrolling all the way down. You deserve a semicolon ;_
