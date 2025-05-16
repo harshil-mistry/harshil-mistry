@@ -108,7 +108,7 @@ I make attempts to create cool stuff that solves real problems
 
 - 💌 Email: harshilmistry31@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/harshilmistry295/
-- 🌐 Portfolio: Coming soon to your nearby browsers
+- 🌐 Portfolio: https://harshilmistry.vercel.app/
 - 🧠 Ask me about web dev, hackathons, or the ideal playlist to power through bug fixing.
 - 🤝 Let’s connect — **especially if you hate frontend as much as I do**. We can hate on React together 😈
  
