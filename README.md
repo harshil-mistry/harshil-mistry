@@ -97,7 +97,7 @@ I make attempts to create cool stuff that solves real problems
 
 - 🧠 Overthinking variable names like it's a philosophy exam  
 - 🎮 Playing games and ignoring my pending assignments
-- 🎸 Strumming my guitar & learning to play phonks on guitar 💀
+- 🎸 Strumming my guitar & learning to play phonks on it 💀
 - 🎵 Vibing to playlists (that I might've built with my own app 👀)  
 - 💡 Brainstorming project ideas I may or may not finish 😅  
 
