@@ -10,7 +10,7 @@ Welcome to my little part of the internet 🌍— where backend is home, fronten
 
 ## 🚀 About Me
 
-🎓 2nd-year BTech CSE student  
+🎓 3rd-year BTech CSE student  
 💻 Full-stack web developer (backend-leaning, but frontend is slowly making peace with me)   
 🧠 Always learning — DSA, React, Django, ML, LLMs, AI Agents  
 💡 Hackathon nerd. Workshops? Count me in.  
